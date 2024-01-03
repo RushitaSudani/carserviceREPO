@@ -1,10 +1,8 @@
 package org.technous.car.carservice.service;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.technous.car.carservice.entity.Car;
 import org.technous.car.carservice.repository.CarServiceRepo;
-
 import java.util.List;
 
 @Service
